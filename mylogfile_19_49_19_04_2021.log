@@ -1,0 +1,32 @@
+root - INFO - ==============START TIME===============
+START TIME =>2021-04-19 19:49:59.550053
+root - INFO - Current File Name=>123.bat
+root - INFO - Current Version Number=>123
+root - INFO - File Validated Successfully
+root - INFO - ==============END TIME===============
+END TIME =>2021-04-19 19:50:18.249774
+root - INFO - ==============START TIME===============
+START TIME =>2021-04-19 19:50:19.689476
+root - INFO - Current File Name=>124 .bat
+root - INFO - Current Version Number=>123
+root - ERROR - File format not in correct format
+root - INFO - ==============START TIME===============
+START TIME =>2021-04-19 19:50:36.149383
+root - INFO - Current File Name=>126.bat
+root - INFO - Current Version Number=>123
+root - INFO - File Validated Successfully
+root - INFO - ==============END TIME===============
+END TIME =>2021-04-19 19:50:53.149155
+root - INFO - ==============START TIME===============
+START TIME =>2021-04-19 19:51:03.879100
+root - INFO - Current File Name=>127.bat
+root - INFO - Current Version Number=>126
+root - INFO - File Validated Successfully
+root - INFO - ==============END TIME===============
+END TIME =>2021-04-19 19:51:12.968804
+root - INFO - ==============START TIME===============
+START TIME =>2021-04-19 19:51:15.448802
+root - INFO - Current File Name=>_125.bat
+root - INFO - Current Version Number=>127
+root - ERROR - File Name does not start with number
+root - ERROR - File format not in correct format
